@@ -1,2 +1,8 @@
 [project]
 name = RailGirlsBlog
+
+[servers.production]
+name = Production
+enabled = yes 
+default = yes
+target = rsync:/example.com/blah
