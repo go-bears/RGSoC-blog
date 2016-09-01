@@ -1,0 +1,16 @@
+_model: page
+---
+title: july 1, 2016: Rails Girls Summer of Code First Day! Yay!
+---
+_discoverable: yes
+---
+_hidden: no
+---
+body:
+
+Today's the first day of Rails Girls Summer of Code. We've been studying the code on Github for the last few weeks of June in preparation for today. We're interested in seeing how the python and react.js components work together!
+Today , we introduced ourselves via the twitter handle Hackbrighters! to the getlektor twitter community. We hope to be welcomed by them.  
+We're still studying the code and documentation. We had tried to install the development version and ran into a know error.  Some of the install documentation seemed unclear on how to install Ubuntu dependencies that weren't handed by pip install. So, we took upon ourselves to add the code to the website's documentation. Our first interesting discovery is that lektor uses markdown instead of html tags to format text content. The code is much cleaner to read, but we needed to look up the Markdown tags and syntax. 
+
+After completing the installation, we worked through the quickstart to create our blog. What better way to learn the tool you're working with than to make something with it! Our next goal is to test the  deployment documentation by this blog to github pages. Thanks so much to Rails Girls, Armin Ronacher and the Lektor community!
+M&P
